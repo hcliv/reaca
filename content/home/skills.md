@@ -18,8 +18,6 @@ feature:
     icon: safari
     icon_pack: fab
     name: Web Development
-design:
-  columns: "2"
   - description: Sensors, motors, microcomputers, PCB
     icon: robot
     icon_pack: fas
@@ -32,4 +30,6 @@ design:
     icon: skiing
     icon_pack: fas
     name: Skiing
+design:
+  columns: "2"
 ---

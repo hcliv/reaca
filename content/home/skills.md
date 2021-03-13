@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: C\C++, Python, Matlab etc.
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: Programming
 - description: Scikit-Learn, Pandas, NumPy, Matplotlib
   icon: chart-line
@@ -26,7 +26,7 @@ feature:
   name: Data Science
 - description: Web Development
   icon: safari
-  icon_pack: fas
+  icon_pack: fab
   name: Web Development
 
 

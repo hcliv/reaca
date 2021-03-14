@@ -36,10 +36,10 @@ directions: 30 Xueyuan Road, Haidian, Beijing, 100083
 office_hours: ''
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+  - icon: exclamation-triangle
+    icon_pack: fas
+    name: The contact sent by this page sometimes does not work(especially in mainland China), so contact me via email directly plz :)
+    link: ''
 # Site header
 
 main_menu:

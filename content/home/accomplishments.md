@@ -47,4 +47,20 @@ item:
   organization_url: ""
   title: Top 100 of 12,000 teams | Summer Social Practice, China
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-09-01"
+  description: ""
+  organization: 
+  organization_url: ""
+  title: First prize of editing project in Robot New Media Creative Contest
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-05-01"
+  description: ""
+  organization: 
+  organization_url: ""
+  title: Best Design Award, Third Prize of Robotics Competition
+  url: ""
 ---

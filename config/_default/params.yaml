@@ -36,7 +36,10 @@ directions: 30 Xueyuan Road, Haidian, Beijing, 100083
 office_hours: ''
 appointment_url: ''
 contact_links:
-
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Twitter'
 # Site header
 
 main_menu:

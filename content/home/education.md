@@ -28,9 +28,7 @@ experience:
     location: Beijing
     date_start: '2017-09-01'
     date_end: '2021-06-30'
-    description: |2-
-        Responsibilities include:
-        
+    description:
         * Analysing
         * Modelling
         * Deploying

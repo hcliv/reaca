@@ -7,7 +7,6 @@ interests:
   - Data mining
   - Computational Linguistics
   - Robotics
-  - Languages
 social:
   - icon: envelope
     icon_pack: fas

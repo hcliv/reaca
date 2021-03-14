@@ -29,22 +29,22 @@ item:
   description: ""
   organization: ""
   organization_url: ""
-  title: Top 5% of 6,000 teams | 1st Prize of Beijing College Student Computer Design Competition, China
+  title: Top 5% of 6,000 teams | 1st Prize of National Computer Design Competition
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
-  description: 
-  organization: USTB
+  description: ""
+  organization: ""
   organization_url:  ""
   title: Champion (30+ teams) | Engineering Training Comprehensive Ability Competition
   url: ""
 - certificate_url: ""
-  date_end: "2018-09-01"
+  date_end: ""
   date_start: "2018-07-01"
-  description: "Beijing"
-  organization: DataCamp
+  description: ""
+  organization: 
   organization_url: ""
-  title: Gold Medal | Summer Social Practice
+  title: Top 100 of 12,000 teams | Summer Social Practice, China
   url: ""
 ---

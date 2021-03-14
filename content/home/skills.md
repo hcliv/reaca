@@ -14,14 +14,14 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Science 
-  - description: Web Development
-    icon: safari
-    icon_pack: fab
-    name: Web Development
   - description: Power source,Sensors, motors, microcomputers, PCB
     icon: robot
     icon_pack: fas
     name: Hardware
+  - description: Web Development
+    icon: safari
+    icon_pack: fab
+    name: Web Development
   - description: davinci resolve, premiere pro
     icon: film
     icon_pack: fas

@@ -14,7 +14,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Science 
-  - description: Power source, Sensors, Motors, Microcomputers, PCB
+  - description: Power source, Sensors, Motors, MCU, PCB
     icon: robot
     icon_pack: fas
     name: Hardware

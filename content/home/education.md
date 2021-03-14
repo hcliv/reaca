@@ -30,9 +30,9 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Student council of USTB
+        * College Ski League of China
+        * Lab: Laboratory for Robotics and Digital Design
         
 #  - title: Professor
 #    company: University X

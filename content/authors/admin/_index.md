@@ -6,7 +6,8 @@ bio: My research interests include robotics, data mining and programmable matter
 interests:
   - Data mining
   - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Languages
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +26,7 @@ education:
     - course: BEng in Automation
       institution: University of Science and Technology Beijing
       year: ""
-email: ""
+email: "haocheng@outlook.fr"
 superuser: true
 highlight_name: false
 ---

@@ -14,7 +14,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Science 
-  - description: Power source,Sensors, motors, microcomputers, PCB
+  - description: Power source, Sensors, Motors, Microcomputers, PCB
     icon: robot
     icon_pack: fas
     name: Hardware
@@ -22,7 +22,7 @@ feature:
     icon: safari
     icon_pack: fab
     name: Web Development
-  - description: davinci resolve, premiere pro
+  - description: Davinci resolve, Premiere pro
     icon: film
     icon_pack: fas
     name: Video shooting and editing

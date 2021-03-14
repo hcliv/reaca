@@ -18,7 +18,7 @@ feature:
     icon: safari
     icon_pack: fab
     name: Web Development
-  - description: Sensors, motors, microcomputers, PCB
+  - description: Power source,Sensors, motors, microcomputers, PCB
     icon: robot
     icon_pack: fas
     name: Hardware

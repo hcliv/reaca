@@ -28,7 +28,9 @@ experience:
     location: Beijing
     date_start: '2017-09-01'
     date_end: '2021-06-30'
-    description:
+    description: |2-
+        ""
+        
         * Analysing
         * Modelling
         * Deploying

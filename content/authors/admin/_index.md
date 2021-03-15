@@ -33,4 +33,4 @@ Haocheng Liu is an undergraduate student of Automation at University of Science 
 
 Haocheng Liu est un étudiant en automatisation à l'Université des sciences et technologies de Pékin. Ses intérêts de recherche comprennent la robotique, l'exploration de données et la matière programmable. Il est membre du laboratoire de robotique et de conception numérique, qui développe des robots et logiciels intelligents. Il se concentre maintenant sur sa sujet de fin d'études, qui est une recherche sur la décomposition des signaux confondants.
 
-{{< icon name="battle-net" pack="fab" >}} Visit another {{< staticref "haocheng.cloud" "newtab" >}}site{{< /staticref >}} of mine.
+{{< icon name="battle-net" pack="fab" >}} Visit another {{< staticref "http://haocheng.cloud" "newtab" >}}site{{< /staticref >}} of mine.

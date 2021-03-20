@@ -17,6 +17,12 @@ social:
     label: Website
     link: https://bloghc.netlify.app/
     icon: align-left
+  - display:
+      header: true
+    icon_pack: fab
+    label: Media
+    link: https://space.bilibili.com/302073328
+    icon: youtube
 organizations:
   - name: University of Science and Technology Beijing
     url: https://en.ustb.edu.cn/

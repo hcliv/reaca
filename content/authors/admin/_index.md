@@ -21,7 +21,7 @@ social:
       header: true
     icon_pack: fas
     label: Website
-    link: https://bloghc.netlify.app/
+    link: https://haocheng.cloud
     icon: align-left
 
 organizations:

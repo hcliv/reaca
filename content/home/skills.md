@@ -10,10 +10,10 @@ feature:
     icon: code
     icon_pack: fas
     name: Programming
-  - description: Scikit-Learn, Pandas, NumPy, Matplotlib
+  - description: Scikit-Learn, Pytorch, NumPy, Matplotlib
     icon: chart-line
     icon_pack: fas
-    name: Data Science 
+    name: Data Science & AI
   - description: Power source, Sensors, Motors, MCU, PCB
     icon: robot
     icon_pack: fas

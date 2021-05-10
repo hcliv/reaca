@@ -5,7 +5,8 @@ avatar_filename: fatpeople.jpg
 bio: My research interests include robotics, data mining and programmable matter.
 interests:
   - Data mining
-  - Computational Linguistics
+  - Artificial Intelligence
+  - linguistics
   - Robotics
 social:
   - icon: envelope

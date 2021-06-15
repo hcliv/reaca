@@ -29,7 +29,7 @@ item:
   description: ""
   organization: ""
   organization_url: ""
-  title: Top 5% of Beijing | Outstanding Graduate Thesis
+  title: Top 5% of Graduates | Outstanding Graduate Thesis
   url: ""
 - certificate_url: ""
   date_end: ""

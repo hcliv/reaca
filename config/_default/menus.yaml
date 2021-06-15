@@ -16,8 +16,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Website
-    url: 'https://journlhc.netlify.app/'
+  - name: Blog
+    url: 'https://bloghc.netlify.app/'
     weight: 50
   - name: Contact
     url: '#contact'

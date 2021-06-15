@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2021-06-15"
+  description: ""
+  organization: ""
+  organization_url: ""
+  title: Top 5% of Beijing | Outstanding Graduate Thesis
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2018-10-01"
   description: ""
   organization: ""

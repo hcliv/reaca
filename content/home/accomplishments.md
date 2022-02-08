@@ -26,10 +26,10 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-12-15"
-  description: ""
+  description: "only 1 of 167 students awarded in department of automation"
   organization: ""
   organization_url: ""
-  title: Top 1% of Graduates | Outstanding Graduate Thesis | Beijing
+  title: Top 1% of Graduates | Municipal Excellent Bachelor Thesis, Beijing
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: ""
   organization_url: ""
-  title: Top 5% of Graduates | Outstanding Graduate Thesis | USTB
+  title: Top 5% of Graduates | Outstanding Graduate Thesis, USTB
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -45,7 +45,7 @@ item:
   description: ""
   organization: ""
   organization_url: ""
-  title: Top 5% of 6,000 teams | 1st Prize of National Computer Design Competition
+  title: Top 1% | 1st Prize of China Student Computer Design Competition
   url: ""
 - certificate_url: ""
   date_end: ""

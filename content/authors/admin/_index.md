@@ -31,9 +31,9 @@ organizations:
     url: https://en.ustb.edu.cn/About/index.htm
 education:
   courses:
-    - course: Bachelor's degree
+    - course: Bachelor of Automation
       institution: University of Science and Technology Beijing
-      year: ""
+      year: "2017 - 2021"
 email: "haocheng@outlook.fr"
 superuser: true
 highlight_name: false

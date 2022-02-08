@@ -2,7 +2,7 @@
 title: Haocheng Liu
 role:
 avatar_filename: fatpeople.jpg
-bio: My research interests include robotics, data mining and programmable matter.
+bio:
 interests:
   - Data mining
   - Artificial Intelligence
@@ -31,7 +31,7 @@ organizations:
     url: https://en.ustb.edu.cn/About/index.htm
 education:
   courses:
-    - course: BEng in Automation
+    - course: Bachelor's degree
       institution: University of Science and Technology Beijing
       year: ""
 email: "haocheng@outlook.fr"

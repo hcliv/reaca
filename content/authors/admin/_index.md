@@ -4,11 +4,12 @@ role:
 avatar_filename: fatpeople.jpg
 bio:
 interests:
+  - Robotics
   - Data mining
   - Artificial Intelligence
   - Bioinformatics
   - linguistics
-  - Robotics
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,8 +39,8 @@ email: "haocheng@outlook.fr"
 superuser: true
 highlight_name: false
 ---
-Haocheng Liu is an undergraduate student of Automation at University of Science and Technology Beijing. His research interests include robotics, data mining and programmable matter. He is the member of Robotics and digital design laboratory, which develops Intelligent robots and softwares. His graduation thesis is focusing on researching on the decomposition of confounding signals. 
+I am an undergraduate student of Automation at University of Science and Technology Beijing. My research interests include robotics, AI and programmable matters. I worked in Bio-inspired computing Lab and was supervised by Prof. {{< staticref "https://ensaee.ustb.edu.cn/facultystaf/overview/xka/10624060.htm" "newtab" >}}Dongmei Fu{{< /staticref >}}, and my bachelor's thesis research focused on non-stationary signal processing methods.
 
-Haocheng Liu est un étudiant en automatisation à l'Université des sciences et technologies de Pékin. Ses intérêts de recherche comprennent la robotique, l'exploration de données et la matière programmable. Il est membre du laboratoire de robotique et de conception numérique, qui développe des robots et logiciels intelligents.
+Je suis un étudiant de premier cycle en automatisation à l'Université des sciences et technologies de Pékin. Mes recherches portent sur la robotique, AI et les matières programmables. J'ai travaillé dans le laboratoire d'informatique bio-inspirée et j'ai été supervisé par le Prof. {{< staticref "https://ensaee.ustb.edu.cn/facultystaf/overview/xka/10624060.htm" "newtab" >}}Dongmei Fu{{< /staticref >}}, et ma thèse de licence portait sur les méthodes de traitement des signaux non stationnaires.
 
 {{< icon name="battle-net" pack="fab" >}} Visit {{< staticref "https://bloghc.netlify.app/" "newtab" >}}Blog{{< /staticref >}} of mine.

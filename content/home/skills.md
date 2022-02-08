@@ -6,18 +6,18 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: C\C++, Python, Matlab etc.
+  - description: C/C++, Python, SQL, Matlab, HTML/CSS, Verilog, etc.
     icon: code
     icon_pack: fas
     name: Programming
-  - description: Scikit-Learn, Pytorch, NumPy, Matplotlib
+  - description: Scikit-Learn, Pytorch, TensorFlow, Keras
     icon: chart-line
     icon_pack: fas
     name: Data Science & AI
-  - description: Power source, Sensors, Motors, MCU, PCB
+  - description: Signal processing, Computer Vision, closed-loop control, Power source, Sensors, Motors, EDA
     icon: robot
     icon_pack: fas
-    name: Hardware
+    name: Robotics
   - description: Web Development
     icon: safari
     icon_pack: fab

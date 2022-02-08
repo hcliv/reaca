@@ -69,7 +69,7 @@ item:
   description: ""
   organization: 
   organization_url: ""
-  title: First prize of editing project in Robot New Media Creative Contest
+  title: First prize of Robot New Media Creative Contest
   url: ""
 - certificate_url: ""
   date_end: ""

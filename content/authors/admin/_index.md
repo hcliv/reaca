@@ -1,11 +1,12 @@
 ---
 title: Haocheng Liu
-role: Undergraduate student of Automation
+role:
 avatar_filename: fatpeople.jpg
 bio: My research interests include robotics, data mining and programmable matter.
 interests:
   - Data mining
   - Artificial Intelligence
+  - Bioinformatics
   - linguistics
   - Robotics
 social:
@@ -27,7 +28,7 @@ social:
 
 organizations:
   - name: University of Science and Technology Beijing
-    url: https://en.ustb.edu.cn/
+    url: https://en.ustb.edu.cn/About/index.htm
 education:
   courses:
     - course: BEng in Automation

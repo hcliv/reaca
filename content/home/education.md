@@ -26,13 +26,13 @@ experience:
     company: BEng in Automation
     company_url: 'https://en.ustb.edu.cn/'
     location: Beijing
-    date_start: '2017-09-01'
-    date_end: '2021-06-30'
+    date_start: '2017-08-30'
+    date_end: '2021-06-22'
     description: |2-
         
         * Student council of USTB
-        * College Ski League of China
-        * Lab: Laboratory for Robotics and Digital Design
+        * Bio-inspired lab
+        * Cross-disciplinary Lab
         
 #  - title: Professor
 #    company: University X

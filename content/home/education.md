@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: University of Science and Technology Beijing
-    company: BEng in Automation
-    company_url: 'https://en.ustb.edu.cn/'
+    company: Bachelor of Automation
+    company_url: 'https://en.ustb.edu.cn/About/index.htm'
     location: Beijing
     date_start: '2017-08-30'
     date_end: '2021-06-22'

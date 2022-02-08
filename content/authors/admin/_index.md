@@ -16,7 +16,7 @@ social:
       header: true
     icon_pack: fab
     label: Media
-<!--     link: https://space.bilibili.com/302073328 -->
+    link: https://space.bilibili.com/302073328*
     icon: youtube
   - display:
       header: true

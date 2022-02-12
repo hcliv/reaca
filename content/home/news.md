@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 
-"Non-stationary Signal Analysis Tool" awarded the Computer software copyright registration certificate <u>No.2021SR0872462</u>
-
+- "Non-stationary Signal Analysis Tool" awarded the Computer software copyright registration certificate <u>No.2021SR0872462</u>
+- Bachelor Thesis "Research on multi-frequency composed signal decomposition and software development" (CHINESE) awarded some honours
 

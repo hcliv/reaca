@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 
-## Computer software copyright registration certificate No.2021SR0872462
+Computer software copyright registration certificate No.2021SR0872462
 
 
